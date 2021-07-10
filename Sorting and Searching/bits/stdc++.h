@@ -92,6 +92,7 @@
 #include <string>
 #include <typeinfo>
 #include <utility>
+#include <unordered_map>
 #include <valarray>
 #include <vector>
 
